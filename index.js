@@ -22,8 +22,8 @@ const verifyTotal = returnMoney + totalCost;
 const mathematicsMarks = 98;
 const biologyMarks = 90;
 const chemistryMarks = 89.46;
-const physicsMarks = 80;
-const banglaMarks = 90.88;
+const physicsMarks = 90;
+// const banglaMarks = 90.88;
 
 const totalMarks = mathematicsMarks + biologyMarks + chemistryMarks + physicsMarks + banglaMarks;
 // console.log(totalMarks);
